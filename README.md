@@ -17,14 +17,10 @@ This project focuses on generating insightful reports to analyze sales and finan
 1. Develop Profit and Loss (P&L) reports segmented by Fiscal Year and Months.
 2. Generate Profit and Loss (P&L) reports by Markets to analyze market-specific financial performance.
 
-# Purpose:
-Evaluate financial performance, support strategic decision-making, and facilitate communication with stakeholders.
+* Purpose: Evaluate financial performance, support strategic decision-making, and facilitate communication with stakeholders.
+* Importance: Benchmark performance against industry peers and previous periods, providing a solid foundation for budgeting and forecasting.
 
-# Importance:
-Benchmark performance against industry peers and previous periods, providing a solid foundation for budgeting and forecasting.
-
-# Role of Reports:
-Align financial planning with strategic goals and instill confidence in the organization’s financial outlook.
+* Role of Reports: Align financial planning with strategic goals and instill confidence in the organization’s financial outlook.
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
