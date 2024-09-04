@@ -8,9 +8,9 @@ This project focuses on generating insightful reports to analyze sales and finan
 1. Generate a detailed Customer Performance Report to evaluate individual customer metrics.
 2. Perform a thorough comparison between Market Performance and Sales Targets to assess overall market effectiveness.
 
-# Purpose:Empower businesses with the ability to monitor and evaluate sales activities, leading to more informed decision-making.
+* Purpose:Empower businesses with the ability to monitor and evaluate sales activities, leading to more informed decision-making.
 
-# Importance:Analyze sales data to uncover patterns, track key performance indicators (KPIs), and improve strategic planning.
+* Importance:Analyze sales data to uncover patterns, track key performance indicators (KPIs), and improve strategic planning.
 
 ## Finance Report
 * Objective:
